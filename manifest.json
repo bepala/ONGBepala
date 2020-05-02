@@ -1,0 +1,37 @@
+{
+  "name": "ONG BEPALA",
+  "short_name": "ONG BEPALA",
+  "start_url": "https://ongbepala.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#FF00B7",
+  "theme_color": "#2B0C93",
+  "description": "Banco de entrega de productos de aseo, limpieza y agua.",
+  "icons": [{
+    "src": "https://cdn.statically.io/img/2.bp.blogspot.com/-waeUuRueEhI/XqyuujDeW2I/AAAAAAAAJDs/EOZvj4p9hd4OQQQsepJ6XYZ1Bcb5af0ggCLcBGAsYHQ/s48/favicon.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.statically.io/img/2.bp.blogspot.com/-waeUuRueEhI/XqyuujDeW2I/AAAAAAAAJDs/EOZvj4p9hd4OQQQsepJ6XYZ1Bcb5af0ggCLcBGAsYHQ/s72/favicon.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.statically.io/img/2.bp.blogspot.com/-waeUuRueEhI/XqyuujDeW2I/AAAAAAAAJDs/EOZvj4p9hd4OQQQsepJ6XYZ1Bcb5af0ggCLcBGAsYHQ/s96/favicon.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.statically.io/img/2.bp.blogspot.com/-waeUuRueEhI/XqyuujDeW2I/AAAAAAAAJDs/EOZvj4p9hd4OQQQsepJ6XYZ1Bcb5af0ggCLcBGAsYHQ/s144/favicon.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.statically.io/img/2.bp.blogspot.com/-waeUuRueEhI/XqyuujDeW2I/AAAAAAAAJDs/EOZvj4p9hd4OQQQsepJ6XYZ1Bcb5af0ggCLcBGAsYHQ/s168/favicon.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.statically.io/img/2.bp.blogspot.com/-waeUuRueEhI/XqyuujDeW2I/AAAAAAAAJDs/EOZvj4p9hd4OQQQsepJ6XYZ1Bcb5af0ggCLcBGAsYHQ/s192/favicon.png",
+    "sizes": "192x192",
+    "type": "image/png"  }, {
+    "src": "https://cdn.statically.io/img/2.bp.blogspot.com/-waeUuRueEhI/XqyuujDeW2I/AAAAAAAAJDs/EOZvj4p9hd4OQQQsepJ6XYZ1Bcb5af0ggCLcBGAsYHQ/s512/favicon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
